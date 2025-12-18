@@ -1,0 +1,18 @@
+{
+  "name": "pharmacyapp-backend",
+  "version": "1.0.0",
+  "description": "Backend for PharmacyApp using Node.js and Express",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "author": "IndujiTechnologies",
+  "license": "ISC"
+}
